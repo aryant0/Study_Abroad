@@ -147,9 +147,7 @@ function Hero() {
       <img src={heroImg} alt="Graduating students" width={1600} height={1024} className="absolute inset-0 h-full w-full object-cover opacity-20" />
       <div className="relative container mx-auto px-4 py-20 md:py-28 grid lg:grid-cols-2 gap-12 items-center">
         <div className="animate-fade-in">
-          <div className="inline-flex items-center gap-2 bg-primary-foreground/10 border border-primary-foreground/20 backdrop-blur px-3 py-1.5 rounded-full text-xs font-medium">
-            <Sparkles className="h-3.5 w-3.5 text-accent-glow" /> 9+ years • 12,000+ admissions
-          </div>
+          
           <h1 className="font-display text-4xl md:text-6xl font-bold leading-tight mt-5">
             Shaping Futures,<br />
             <span className="text-gradient-accent">One Student</span> at a Time
@@ -240,7 +238,7 @@ function About() {
             </div>
             <div>
               <div className="font-display font-bold text-primary text-lg">Since 2015</div>
-              <div className="text-xs text-muted-foreground">9+ years of excellence</div>
+              
             </div>
           </div>
         </div>
