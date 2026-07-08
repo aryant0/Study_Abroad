@@ -674,7 +674,7 @@ function Contact() {
                   <div className="text-xs uppercase tracking-widest opacity-70">Office</div>
                   <div className="flex items-start gap-2 mt-1 text-sm opacity-90">
                     <MapPin className="h-5 w-5 text-accent-glow mt-0.5 shrink-0" />
-                    2705-W/38, Lodha Amara, Thane, Maharashtra – 400607, India
+                    G6 1st Floor, Rohini Sector 16, Delhi – 110089, India
                   </div>
                 </div>
                 <div>
@@ -685,15 +685,6 @@ function Contact() {
                 </div>
               </CardContent>
             </Card>
-            <div className="rounded-2xl overflow-hidden shadow-card border aspect-video">
-              <iframe
-                title="Educapital office map"
-                src="https://www.google.com/maps?q=Lodha+Amara+Thane+Maharashtra+400607&output=embed"
-                className="w-full h-full"
-                loading="lazy"
-                referrerPolicy="no-referrer-when-downgrade"
-              />
-            </div>
           </div>
         </div>
       </div>
