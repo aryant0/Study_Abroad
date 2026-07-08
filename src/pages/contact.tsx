@@ -67,9 +67,6 @@ function ContactPage() {
                   <div className="flex items-center gap-2 mt-1 text-sm"><Clock className="h-5 w-5 text-accent-glow" />Mon–Sat, 9 AM – 7 PM</div></div>
               </CardContent>
             </Card>
-            <div className="rounded-2xl overflow-hidden shadow-card border aspect-video">
-              <iframe title="Map" src="https://www.google.com/maps?q=Rohini+Sector+16+Delhi+110089&output=embed" className="w-full h-full" loading="lazy" />
-            </div>
           </div>
         </div>
       </section>
