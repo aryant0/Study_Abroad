@@ -40,7 +40,7 @@ export function SiteFooter() {
             <div className="flex items-start gap-2">
               <MapPin className="h-4 w-4 mt-0.5 shrink-0" />
               <span>
-                2705-W/38, Lodha Amara, Thane, Maharashtra – 400607, India
+              G6 1st Floor, Rohini Sector 16, Delhi – 110089, India
               </span>
             </div>
 

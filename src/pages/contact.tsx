@@ -62,13 +62,13 @@ function ContactPage() {
                 <div><div className="text-xs uppercase tracking-widest opacity-70">Email</div>
                   <a href="mailto:info@educapitalconsultancy.com" className="flex items-center gap-2 mt-1 break-all"><Mail className="h-5 w-5 text-accent-glow shrink-0" />info@educapitalconsultancy.com</a></div>
                 <div><div className="text-xs uppercase tracking-widest opacity-70">Address</div>
-                  <div className="flex items-start gap-2 mt-1 text-sm"><MapPin className="h-5 w-5 text-accent-glow mt-0.5 shrink-0" />2705-W/38, Lodha Amara, Thane, MH – 400607</div></div>
+                  <div className="flex items-start gap-2 mt-1 text-sm"><MapPin className="h-5 w-5 text-accent-glow mt-0.5 shrink-0" />G6 1st Floor, Rohini Sector 16, Delhi – 110089</div></div>
                 <div><div className="text-xs uppercase tracking-widest opacity-70">Hours</div>
                   <div className="flex items-center gap-2 mt-1 text-sm"><Clock className="h-5 w-5 text-accent-glow" />Mon–Sat, 9 AM – 7 PM</div></div>
               </CardContent>
             </Card>
             <div className="rounded-2xl overflow-hidden shadow-card border aspect-video">
-              <iframe title="Map" src="https://www.google.com/maps?q=Lodha+Amara+Thane+Maharashtra+400607&output=embed" className="w-full h-full" loading="lazy" />
+              <iframe title="Map" src="https://www.google.com/maps?q=Rohini+Sector+16+Delhi+110089&output=embed" className="w-full h-full" loading="lazy" />
             </div>
           </div>
         </div>
